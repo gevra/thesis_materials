@@ -13,17 +13,40 @@ We are releasing more than 500M hashtagged English tweet IDs in 3 collections.
 **225'559'593** news-relevant tweets between *26.06.2015* and *24.05.2017* are available at [https://doi.org/10.6084/m9.figshare.9826274](https://doi.org/10.6084/m9.figshare.9826274)
 
 
-## Storyful
+### Storyful
 coming soon...  
+
+
 
 
 ## News
 coming soon...  
-in the process of publishing 8 news collections
+in the process of publishing 8 more news collections
+
+### May 2016 articles
+News articles crawled in May 2016 from 27 RSS feeds of 8 news sources (The Irish Times, The Irish Independent, RTE, TheJournal.ie, Irish Examiner, BBC, Reuters and Al Jazeera) along with the hashtags that were recommended to each of the articles by Hashtagger are available at [https://github.com/gevra/may2016-stories](https://github.com/gevra/may2016-stories).
+
+### ranked articles retrieved with story queries
+The retrieved ranked articles for each of the queries used in the user study of SocialTree experiments are available at [https://github.com/gevra/socialtree](https://github.com/gevra/socialtree).
+
+
 
 # Code
-## Hashtagger+
+## the offline adaptation of Hashtagger+
 The code for offline addaptation of Hashtagger+ is available at [https://github.com/gevra/hashtagger_plus_offline](https://github.com/gevra/hashtagger_plus_offline).
+
+## story detection 
+The code for story detection is available at [https://github.com/gevra/may2016-stories](https://github.com/gevra/may2016-stories).
 
 ## SocialTree
 The code for producing structured summaries with socially augmented representations is available at [https://github.com/gevra/socialtree](https://github.com/gevra/socialtree).
+
+
+
+
+# Interactive examples
+## interactive story browser
+The interactive hierarchical story browser for May 2016 stories is available at [https://github.com/gevra/may2016-stories](https://github.com/gevra/may2016-stories).
+
+## interactive structured summaries
+Examples of interactive structured summaries of news stories are available at [https://gevra.github.io/socialtree/](https://gevra.github.io/socialtree/).
